@@ -1,0 +1,13 @@
+<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> cd Pradyuman/<!-- kjsdfhkjdhsfkjdshfkj -->About_Pradyuman
+<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->pradyuman.txt<br/><br/>
+My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+
+Hey There! I am Pradyuman Dixit.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently pursuing my Bachelor's in Computer Science and Engineering from Delft University of Technology (TU Delft).</p>
+<p>I love to code, and play football, and maybe singing too.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I have worked in fields like Android Development, Machine Learning, Web Development and Game Development until now, and I'm working on other new things. You can learn more about me on my <a href="https://pradyumandixit.wixsite.com/about-me"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>One thing you may notice about me is that I am always coding. I love to develop apps, games, web-apps and also like solving competitive coding problems. <br><br><br>Do you want to see some of my completed projects? <a href="https://tender-bose-f2fafa.netlify.com/"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> You can visit my other profiles, here: <br> <a href="https://www.linkedin.com/in/pradyuman-dixit/">LinkedIn</a> <br> <a href="https://github.com/Pradyuman7">GitHub</a> and <br> <a href="https://www.hackerrank.com/pradyumandixit">HackerRank</a>.</p>
+
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email.<!-- longlonglongcomment --> My email address is: <a href="P.Dixit@Student.tudelft.nl">P.Dixit@Student.tudelft.nl</a>.
+
+<p>Cheers!</p>
