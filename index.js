@@ -63,7 +63,7 @@ var Typer={
 			window.scrollBy(0,50); 
 		}
 		
-		if ( key.preventDefault && key.keyCode != 122 ) { 
+		if (key.preventDefault && key.keyCode != 122) { 
 			key.preventDefault()
 		};  
 		
@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=3;
-Typer.file="pradyuman.txt";
+Typer.file="CodeNerve.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
