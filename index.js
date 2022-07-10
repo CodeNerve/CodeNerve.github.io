@@ -95,7 +95,7 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 3;
+Typer.speed = 6;
 Typer.file = 'CodeNerve.txt';
 Typer.init();
 
