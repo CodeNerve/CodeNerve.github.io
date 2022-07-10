@@ -10,4 +10,4 @@ Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglag
 
 You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
 
-<p>Cheers!</p> <span id="a">Code for Everyone</span>
+<p>Cheers!</p> <span id="k">Code for Everyone</span>
