@@ -95,8 +95,8 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 2;
-Typer.file = 'CodeNerve.txt';
+Typer.speed = 1;
+Typer.file = 'shamim.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
