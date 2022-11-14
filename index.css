@@ -1,48 +1,80 @@
-:root {
-	background-color: #000 !important;
-}
-
 body {
-	background-color: #000
-}
-
-#console {
-	font-family: courier, monospace;
-	color: #fff;
-	width:750px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-top:100px;
-	font-size:14px;
-}
-
-a {
-	color: #0bc;
-	text-decoration: none;
-}
-
-#a {
-	color: #0f0;
-}
-
-#c {
-	color: #0bc;
-}
-
-#b {
-	color: #ff0096;
-}
-
-#k {
-    	animation: change 1s;
-}
-
-#op{
-    	color: #888888
-}
-
-@keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
-    	99% { color: black; }
-}
+	background: #6D7074;
+  }
+  
+  
+  .terminal-window {
+	text-align: left;
+	width: 600px;
+	height: 360px;
+	border-radius: 10px;
+	margin: auto;
+	position: relative;
+  }
+  
+  .terminal-window header {
+	background: #E0E8F0;
+	height: 30px;
+	border-radius: 8px 8px 0 0;
+	padding-left: 10px;
+  }
+  
+  .terminal-window header .button {
+	width: 12px;
+	height: 12px;
+	margin: 10px 4px 0 0;
+	display: inline-block;
+	border-radius: 8px;
+  }
+  
+  .terminal-window header .button.green {
+	background: #3BB662;
+  }
+  
+  .terminal-window header .button.yellow {
+	background: #E5C30F;
+  }
+  
+  .terminal-window header .button.red {
+	background: #E75448;
+  }
+  
+  .terminal-window section.terminal {
+	color: white;
+	font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+	font-size: 11pt;
+	background: #30353A;
+	padding: 10px;
+	box-sizing: border-box;
+	position: absolute;
+	width: 100%;
+	top: 30px;
+	bottom: 0;
+	overflow: auto;
+  }
+  
+  .terminal-window section.terminal .typed-cursor {
+	  opacity: 1;
+	  -webkit-animation: blink 0.7s infinite;
+	  -moz-animation: blink 0.7s infinite;
+	  animation: blink 0.7s infinite;
+  }
+  @keyframes blink{
+	  0% { opacity:1; }
+	  50% { opacity:0; }
+	  100% { opacity:1; }
+  }
+  @-webkit-keyframes blink{
+	  0% { opacity:1; }
+	  50% { opacity:0; }
+	  100% { opacity:1; }
+  }
+  @-moz-keyframes blink{
+	  0% { opacity:1; }
+	  50% { opacity:0; }
+	  100% { opacity:1; }
+  }
+  
+  .terminal-data { display: none; }
+  .terminal-window .gray { color: gray; }
+  .terminal-window .green { color: green;}

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "typed.js": "^2.0.12"
+  }
+}
