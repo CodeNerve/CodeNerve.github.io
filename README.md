@@ -41,8 +41,4 @@ Please ensure that your contributions align with the project's goals and adhere 
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and use the code for personal or commercial projects.
 
-## Contact
-
-If you have any questions, suggestions, or feedback regarding the CodeNerve Portfolio Website project, please feel free to contact [Your Name] at [Your Email Address].
-
-Thank you for your interest and support in this project!
+## Thank you for your interest and support in this project!
